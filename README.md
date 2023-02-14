@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthanCopeland, I go by Ethan 
-- 👀 I’m currently working within Northumbria University starting as a Graduate Web Developer in IT Services.
-- 🌱 I’m currently learning React JS and developing projects within my time. 
+- 👀 I’m currently working within Northumbria University starting as a Software Developer.
+- 🌱 I’m currently working with Mobile App Development at the moment - focusing on Xamarin.Forms and C#. 
 - 💞️ I’m looking to collaborate on more detailed projects within accessibility and challenge myself.
 
 <!---
