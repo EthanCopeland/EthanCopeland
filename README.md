@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthanCopeland, I go by Ethan 
-- 👀 I’m currently working within Northumbria University starting as a Software Developer.
-- 🌱 I’m currently working with Mobile App Development at the moment - focusing on Xamarin.Forms and C#. 
+- 👀 I’m currently working within Mandata as a Junior Software Developer.
+- 🌱 I’m currently working with Delphi and SQL for our Enterprise System. 
 - 💞️ I’m looking to collaborate on more detailed projects within accessibility and challenge myself.
 
 <!---
