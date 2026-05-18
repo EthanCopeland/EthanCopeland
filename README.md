@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthanCopeland, I go by Ethan 
-- 👀 I’m currently working within Mandata as a Junior Software Developer.
-- 🌱 I’m currently working with Delphi and SQL for our Enterprise System. 
+- 👀 My latest role was working within Mandata as a Junior Software Developer, working on an Enterprise TMS.
+- 🌱 I’m currently developing a small indie game using C# in Unity.
 - 💞️ I’m looking to collaborate on more detailed projects within accessibility and challenge myself.
 
 <!---
